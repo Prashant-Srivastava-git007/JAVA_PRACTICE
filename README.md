@@ -22,4 +22,4 @@ To get started with this repository, you can follow these steps:
 1. **Clone the repository:** Use the following command to clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/java-practice-questions.git
+   git clone https://github.com/Prashant-Srivastava-git007/JAVA_PRACTICE.git
