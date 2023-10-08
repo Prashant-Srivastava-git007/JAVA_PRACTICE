@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class EvenOdd {
     public static void main(String[] args){
-        //Q1:- Find Even Odd 
+        //Q1:- Write a Java Program to find Even and Odd number which is enterd by the user without using If-Else Statement 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Your Number");
         int num = sc.nextInt();
